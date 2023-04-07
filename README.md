@@ -1,11 +1,3 @@
-style{
-  h2{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-}
-
 <h2>Hi, I'm Emerson Nogueira, developer and Geoprocessing Analyst</h2>
 <div align="center">
   <a href="https://github.com/EmersonNog">

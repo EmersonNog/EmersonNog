@@ -1,4 +1,12 @@
-<h2>Hello, I'm Emerson Nogueira, developer and Geoprocessing Analyst</h2>
+style{
+  h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+<h2>Hi, I'm Emerson Nogueira, developer and Geoprocessing Analyst</h2>
 <div align="center">
   <a href="https://github.com/EmersonNog">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonNog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -10,8 +10,11 @@
   <img align="center" alt="Nog-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nog-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nog-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nog-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Nog-OnRails" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg">
+  <img align="center" alt="Nog-NodeJs" height="30" width="40" src="https://icons8.com/icon/54087/nodejs">
+  <img align="center" alt="Nog-Express" height="30" width="40" src="">
+  <img align="center" alt="Nog-MongoDB" height="30" width="40" src="">
+  <img align="center" alt="Nog-PostgreSQL" height="30" width="40" src="">
+  <img align="center" alt="Nog-Express" height="30" width="40" src="">
   <img align="right" alt="Nog-pic" height="180" style="border-radius:50px;" src="https://i.im.ge/2022/06/12/rpiuxJ.png">
 </div>
   

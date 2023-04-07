@@ -10,7 +10,7 @@
   <img align="center" alt="Nog-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nog-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nog-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nog-NodeJs" height="30" width="40" src="https://icons8.com/icon/54087/nodejs">
+  <img align="center" alt="Nog-NodeJs" height="30" width="40" src="[https://icons8.com/icon/54087/nodejs](https://img.icons8.com/color/512/nodejs.png)">
   <img align="center" alt="Nog-Express" height="30" width="40" src="">
   <img align="center" alt="Nog-MongoDB" height="30" width="40" src="">
   <img align="center" alt="Nog-PostgreSQL" height="30" width="40" src="">

@@ -14,7 +14,7 @@
   <img align="center" alt="Nog-Express" height="60" width="60" src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png">
   <img align="center" alt="Nog-MongoDB" height="60" width="60" src="https://gocode.colorado.gov/wp-content/uploads/2020/11/MongoDB-logo.gif">
   <img align="center" alt="Nog-PostgreSQL" height="60" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9V9h0YPPf0o-faAi5mrr7-x3ZjkgcdCkPKA&usqp=CAU">
-  <img align="center" alt="Nog-pic" height="180" width="60" src="https://i.imgur.com/w28lJuF.png">
+  <a href="https://imgur.com/w28lJuF"><img src="https://i.imgur.com/w28lJuF.png" title="source: imgur.com" /></a>
 </div>
   
 ##

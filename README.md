@@ -1,12 +1,7 @@
-<h2 align="center">Hi, I'm Emerson Nogueira, developer and Geoprocessing Analyst</h2>
-<div align="center">
-  <a href="https://github.com/EmersonNog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonNog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonNog&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<h1 align="center">Hi, I'm Emerson Nogueira, Developer and Geoprocessing Analyst <br>👨‍💻🛰️</h1>
 
 <div align="center">
-  <img src="https://i.imgur.com/w28lJuF.png" title="source: imgur.com" height="260" align="center"/>
+  <img src="https://i.imgur.com/w28lJuF.png" title="source: imgur.com" height="250" align="center"/>
 </div>    
     
 <div style="display: flex" align="center"><br>
@@ -30,10 +25,25 @@
 ##
 
 <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
+<br><h3 align="centre"><b>Visitors</b></h3>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EmersonNog}/count.svg" /></p> 
 <br>
 </div>
+
+##
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmersonNog&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ADD8E6&text_color=ADD8E6&bg_color=0d1117" alt="Paulo Victor github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonNog&layout=compact&hide_border=true&title_color=ADD8E6&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
+#
+
+<h2 align="center">Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EmersonNog&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p> 
 
 ##
  

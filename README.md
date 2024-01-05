@@ -26,7 +26,15 @@
   <img align="center" alt="Nog-VBA" height="60" width="60" src="https://raw.githubusercontent.com/github/explore/71e4a0fc524fd1d7a0d9a940aa6b91f31458a87b/topics/vba/vba.png">
   
 </div>
-  
+
+##
+
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EmersonNog}/count.svg" /></p> 
+<br>
+</div>
+
 ##
  
 <div> 
